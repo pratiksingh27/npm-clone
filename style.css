@@ -184,10 +184,23 @@ p{
     font-size: 40px;
     margin-left: 15px;
 }
+.img{
+    margin-left: 15px;
+    width: 40px;
+    margin-bottom: 10px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+.icone{
+    margin-top: 30px;
+}
 .footer{
     display: flex;
     justify-content: space-between;
     margin-top: 40px;
+    flex-basis: 80%;
 }
 footer h3{
     font-size: 20px;

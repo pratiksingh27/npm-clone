@@ -1,6 +1,5 @@
 @media (max-width:900px) {
     nav{
-        display: block;
         height: 10vh;
     }
     nav ul{
@@ -68,16 +67,27 @@
         margin-bottom: 13px;
     }
     .part3 .pro{
-        width: 50vh;
+        width: 50vw;
+    }
+    footer{
+        display: block;
     }
     .footer{
         display: block;
         margin: 0 35px;
     }
+    .icone{
+        margin-bottom: 25px;
+    }
     footer .company{
         margin: 25px 0;
     }
     .icone{
+        display: block;
+    }
+}
+@media (max-width:960px) {
+    nav{
         display: block;
     }
 }
