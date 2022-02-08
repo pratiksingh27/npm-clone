@@ -1,0 +1,83 @@
+@media (max-width:900px) {
+    nav{
+        display: block;
+        height: 10vh;
+    }
+    nav ul{
+        margin-top: 15px;
+    }
+    .part1{
+        width: 85vw;
+        /* text-align: center;
+        margin: auto; */
+    }
+    .part1 h1{
+        font-size: 50px;
+        /* margin-bottom: 30px; */
+    }
+    .part2{
+        width: 85vw;
+    }
+    .part2 h2 {
+        font-size: 24px;
+        width: 80vw;
+    }
+    .part3{
+        margin: auto;
+        width: 85vw;
+    }
+    
+    .part3 .sighin{
+        margin-right: 30px;
+        text-align: center; 
+    }
+    
+    .main2{
+        width: 85vw;
+    }
+    .main2 h2{
+        font-size: 24px;
+    }
+    .part4{
+        width: 85vw;
+    }
+    .main4{
+        width: 85vw;
+        font-size: 24px;
+        height: 150px;
+    }
+    .main4 h2{
+        font-size: 24px;
+    }
+}
+@media (max-width:600px){
+    .nav2{
+        display: block;
+        height: 28vh;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .nav2 .search{
+        margin: 10px 0;
+    }
+    .se{
+        width: 55vw;
+    }
+    .part3 .sighin{
+        width: 50vw;
+        margin-bottom: 13px;
+    }
+    .part3 .pro{
+        width: 50vh;
+    }
+    .footer{
+        display: block;
+        margin: 0 35px;
+    }
+    footer .company{
+        margin: 25px 0;
+    }
+    .icone{
+        display: block;
+    }
+}
