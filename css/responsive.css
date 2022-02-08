@@ -1,6 +1,6 @@
 @media (max-width:900px) {
     nav{
-        height: 10vh;
+        height: 12vh;
     }
     nav ul{
         margin-top: 15px;
@@ -86,7 +86,7 @@
         display: block;
     }
 }
-@media (max-width:960px) {
+@media (max-width:660px) {
     nav{
         display: block;
     }
